@@ -32,7 +32,7 @@ python app.py
 USAGE ----------------------------->
 Open the Application:
 
-Launch the application by running app.py from your terminal or command prompt.
+Launch the application by running LaunchTransMate.py from your terminal or command prompt.
 
 Select Languages:
 Choose the source and target languages for translation using the dropdown menus.
@@ -49,4 +49,3 @@ Select "French" as the target language.
 Speak "Hello, how are you?" into the microphone.
 The application will display and speak the translated text in the output field.
 
-IN DIST FOLDER, .exe file is present to directly use in your pc.
